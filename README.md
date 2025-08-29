@@ -32,6 +32,6 @@ Aprender a utilizar diferentes bibliotecas de visualização para apresentar dad
    ```bash
     pip install -r requirements.txt
 
-4. Abra o notebook no Jupyter ou VS Code e execute as células:
-    ```bash
+4. Abra o notebook no Jupyter ou VS Code e execute as células
+    
 

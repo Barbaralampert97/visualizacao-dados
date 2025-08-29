@@ -1,0 +1,13 @@
+# Ignorar ambiente virtual
+venv/
+.env/
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar arquivos de sistema
+.DS_Store
